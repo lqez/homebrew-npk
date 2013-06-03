@@ -3,7 +3,7 @@ require 'formula'
 class Npk < Formula
   homepage 'http://github.com/lqez/npk/'
   url 'https://github.com/lqez/npk/archive/v1.9.tar.gz'
-  sha1 'c54bbb3a39ac9214baa14b5a90f6e893e90c7e3e'
+  sha1 'c15069e9aeada2b09d209f5d3ce492e6668e53fb'
 
   depends_on 'cmake' => :build
 
